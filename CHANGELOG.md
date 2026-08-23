@@ -25,10 +25,11 @@
 - Mod Whitelist
 
 ## Mods updated :
-- Forgelin:Legacy, NemexLib, TCI:Core
+- Forgelin:Legacy, NemexLib, TC4Patched, TCI:Core
 
 ## Bugs patched :
 - The Teams button is now showing in your inventory
+- Patched an issue when a client cannot join MP server after joining a solo world
 
 ## Expert changes :
 - Set 80% chance of explosion on Nether Ores
