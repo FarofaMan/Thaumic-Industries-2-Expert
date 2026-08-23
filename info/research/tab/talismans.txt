@@ -1,0 +1,17 @@
+Mining_Ring
+Witherless_Ring
+Light_Ring
+Movement_Ring
+Movement_Talisman
+Water_Ring
+Blank_Talisman
+Witherless_Talisman
+Flame_Ring
+Light_Talisman
+Invisible_Talisman
+Thanks
+Water_Talisman
+Invisible_Ring
+Fusion
+Mining_Talisman
+Flame_Talisman
