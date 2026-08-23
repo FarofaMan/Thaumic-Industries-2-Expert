@@ -25,10 +25,14 @@
 - Mod Whitelist
 
 ## Mods updated :
-- Forgelin:Legacy
+- Forgelin:Legacy, NemexLib, TCI:Core
 
 ## Bugs patched :
 - The Teams button is now showing in your inventory
+
+## Expert changes :
+- Set 80% chance of explosion on Nether Ores
+- Enhanced Herobrine's Scythe infusion recipe
 
 ## Installation instructions :
 - Instructions can be found in the modpack description, in the spoiler at the beginning of the page
