@@ -3,18 +3,18 @@
 [player]
 default_player_rank: true
 priority: 1
-serverutilities.claims.max_chunks: 10
+serverutilities.claims.max_chunks: 16
 serverutilities.chunkloader.max_chunks: 1
 serverutilities.homes.max: 0
 serverutilities.homes.warmup: 5s
 serverutilities.homes.cooldown: 5s
-serverutilities.chunkloader.decay: 12h
+serverutilities.chunkloader.decay: 4h
 
 [vip]
 priority: 20
 serverutilities.chat.name_format: <&bVIP {name}&r>
-serverutilities.claims.max_chunks: 16
-serverutilities.chunkloader.max_chunks: 4
+serverutilities.claims.max_chunks: 64
+serverutilities.chunkloader.max_chunks: 16
 serverutilities.homes.max: 0
 serverutilities.homes.warmup: 0s
 serverutilities.homes.cooldown: 1s
