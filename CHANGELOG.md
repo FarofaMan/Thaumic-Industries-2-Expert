@@ -21,8 +21,11 @@
     3.1.2.1
 #
 
+WARNINGS :
+- Changes has been made to quests : trigger the update via the "!" quest in Information, or type "/bq_admin default load" in your game (with admin rights).
+
 ## Mods added :
-- Mod Whitelist
+- Antique Atlas Overlay Minimap, Mod Whitelist
 
 ## Mods updated :
 - Forgelin:Legacy, NemexLib, TC4Patched, TCI:Core
@@ -34,6 +37,11 @@
 ## Expert changes :
 - Set 80% chance of explosion on Nether Ores
 - Enhanced Herobrine's Scythe infusion recipe
+
+## Gameplay modifications :
+- Set max claim chunks to 16
+- Tweaked text in Glass Phial quest, to fit the latest recipe
+- Added one new info quest, talking about mapping mods 
 
 ## Installation instructions :
 - Instructions can be found in the modpack description, in the spoiler at the beginning of the page
