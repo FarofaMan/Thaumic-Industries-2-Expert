@@ -19,7 +19,7 @@
 
 
     3.1.2.1
-#
+# Nether explosions, death notes & dupe patch
 
 WARNINGS :
 - Changes has been made to quests : trigger the update via the "!" quest in Information, or type "/bq_admin default load" in your game (with admin rights).
