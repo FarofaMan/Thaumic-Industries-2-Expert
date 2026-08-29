@@ -35,7 +35,7 @@ WARNINGS :
 - Patched an issue when a client cannot join MP server after joining a solo world
 
 ## Expert changes :
-- Set 80% chance of explosion on Nether Ores
+- Set 10% chance of explosion on Nether Ores
 - Enhanced Herobrine's Scythe infusion recipe
 
 ## Gameplay modifications :
