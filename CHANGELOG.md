@@ -28,11 +28,12 @@ WARNINGS :
 - Antique Atlas Overlay Minimap, Mod Whitelist
 
 ## Mods updated :
-- Forgelin:Legacy, NemexLib, TC4Patched, TCI:Core
+- Chronos Backups, Forgelin:Legacy, NemexLib, TC4Patched, TCI:Core
 
 ## Bugs patched :
 - The Teams button is now showing in your inventory
-- Patched an issue when a client cannot join MP server after joining a solo world
+- An issue used to happen when a client could not join MP server after joining a solo world
+- Duplicating specific blocks with blocks attached on it in not possible anymore
 
 ## Expert changes :
 - Set 10% chance of explosion on Nether Ores
