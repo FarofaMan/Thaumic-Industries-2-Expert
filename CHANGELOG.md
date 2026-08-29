@@ -25,7 +25,7 @@ WARNINGS :
 - Changes has been made to quests : trigger the update via the "!" quest in Information, or type "/bq_admin default load" in your game (with admin rights).
 
 ## Mods added :
-- Antique Atlas Overlay Minimap, Mod Whitelist
+- Antique Atlas Overlay Minimap
 
 ## Mods updated :
 - Chronos Backups, Forgelin:Legacy, NemexLib, TC4Patched, TCI:Core

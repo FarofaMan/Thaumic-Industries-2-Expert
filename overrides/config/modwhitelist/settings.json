@@ -17,6 +17,6 @@
   "strictFiles": true,
   "collectMode": false,
   "collectWhitelist": [],
-  "customMessage": "Please use the official modpack.",
+    "customMessage": "You're using a modified version of the modpack ; this server only accepts \"official\" clients.",
   "packLink": ""
 }
