@@ -1,11 +1,12 @@
 
 
 
-    3.1.2.
+    3.1.2.2
 #
 
-##
--
+## Gameplay modifications :
+- Added a recipe for a decorative gravestone
+- Set aspects for Gravestone
 
 ## Installation instructions :
 - Instructions can be found in the modpack description, in the spoiler at the beginning of the page
