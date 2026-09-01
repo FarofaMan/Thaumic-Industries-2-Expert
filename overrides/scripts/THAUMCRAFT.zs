@@ -1,6 +1,9 @@
 // Recipes for Thaumcraft
 
 # Aspects
+mods.thaumcraft.Aspects.set(<Thaumcraft:ItemInkwell>, "volatus 1, sensus 1, aer 1, aqua 1"); // Scribing Tools
+
+// Missing aspects
 mods.thaumcraft.Aspects.set(<Thaumcraft:PrimalArrow:1>, "telum 1"); // Arrow (Fire)
 mods.thaumcraft.Aspects.set(<Thaumcraft:PrimalArrow:2>, "telum 1"); // Arrow (Water)
 mods.thaumcraft.Aspects.set(<Thaumcraft:PrimalArrow:3>, "telum 1"); // Arrow (Earth)

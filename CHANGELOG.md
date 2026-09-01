@@ -31,7 +31,7 @@
 
 ## Gameplay modifications :
 - Added a recipe for a decorative gravestone
-- Set aspects for Gravestone
+- Set aspects for Gravestone, Scribing Tools
 
 ## Installation instructions :
 - Instructions can be found in the modpack description, in the spoiler at the beginning of the page
