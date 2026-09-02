@@ -28,6 +28,7 @@
 
 ## Expert changes :
 - Set new values to vis cost for litting up campfires
+- Disabled Aer Imbued Fire
 
 ## Gameplay modifications :
 - Added a recipe for a decorative gravestone
