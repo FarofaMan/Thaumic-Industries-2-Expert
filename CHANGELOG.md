@@ -20,7 +20,7 @@
 #
 
 ## Mods updated :
-- TC4Patched
+- EnderZoo:Patched, TC4Patched
 
 ## Bugs patched :
 - Thaumonomicon used to rarely darken blocks in recipes
@@ -28,7 +28,8 @@
 
 ## Expert changes :
 - Set new values to vis cost for litting up campfires
-- Disabled Aer Imbued Fire
+- Enderminus now have a 16 blocks aggro range
+- Disabled Imbued Fire
 
 ## Gameplay modifications :
 - Added a recipe for a decorative gravestone
