@@ -865,7 +865,7 @@
           "taskLogic:8": "AND",
           "simultaneous:1": 0,
           "globalShare:1": 0,
-          "desc:8": "An §7§lAlumentum§r is an unstable material that can burn twice the items that coal can in a Furnace.\nIt can also be thrown on blocks with right click to trigger a small explosion.\n\n§l§7§lPerditio§r can be found easily in Cobblestone, Sand or Gunpowder\n\nThe research can be found below the §e§lNitor§r\u0027s one."
+          "desc:8": "An §7§lAlumentum§r is an unstable material that can burn twice the items than a coal can in a Furnace.\n\nThis substance can also be thrown on blocks with right clicking to trigger a small explosion.\n\n§l§7§lPerditio§r can be found easily in Cobblestone, Sand or Gunpowder\n\nThe research can be found below the §e§lNitor§r\u0027s one.\n\nThere is also some info inside the Thaumonomicon about a faster distillation process in another research... \n\nIt might be good to have a look."
         }
       },
       "questID:3": 14,
