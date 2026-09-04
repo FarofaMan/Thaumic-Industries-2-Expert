@@ -24,6 +24,7 @@
 
 ## Bugs patched :
 - Thaumonomicon used to rarely darken blocks in recipes
+- Eldritch Obelisks don't get "eaten" by lakes on world gen anymore
 - Trash bin button in the inventory is now back enabled
 
 ## Expert changes :
