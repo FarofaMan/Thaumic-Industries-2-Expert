@@ -20,7 +20,7 @@
 #
 
 ## Mods updated :
-- EnderZoo:Patched, TC4Patched
+- EnderZoo:Patched, TC4Patched, TCI:Core
 
 ## Bugs patched :
 - Thaumonomicon used to rarely darken blocks in recipes
