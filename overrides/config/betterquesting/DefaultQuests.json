@@ -1054,7 +1054,7 @@
           "taskLogic:8": "AND",
           "simultaneous:1": 0,
           "globalShare:1": 0,
-          "desc:8": "Let\u0027s show your skill ! For this quest you will make a jar filled with 64 §l§a§lTerra§r, and a Phial of §l§7§lPerditio§r.\n\nThe Goggles of Revealing can be used for seeing that aspect is present in the Alembics.\nYou can empty an alembic by sneak right-clicking it with an empty hand ; the same also works for Jars !"
+          "desc:8": "Show us what you got!\nFor this quest you will make a jar filled with 64 §a§lTerra§r, and a Phial of §7§lPerditio§r.\n\nThe Goggles of Revealing can be used for seeing what aspect is present in the Alembics.\n\nYou can empty an alembic by sneak right-clicking it with an empty hand ; the same also works for Jars !"
         }
       },
       "questID:3": 17,
