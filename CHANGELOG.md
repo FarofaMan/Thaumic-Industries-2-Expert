@@ -29,6 +29,7 @@ WARNINGS :
 - Thaumonomicon used to rarely darken blocks in recipes
 - Eldritch Obelisks don't get "eaten" by lakes on world gen anymore
 - Trash bin button in the inventory is now back enabled
+- Patched some server performance issues with Backups
 
 ## Expert changes :
 - Added a custom research and recipe for the soul campfire
