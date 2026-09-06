@@ -19,8 +19,11 @@
     3.1.3
 #
 
+WARNINGS :
+- Changes has been made to quests : trigger the update via the "!" quest in Information, or type "/bq_admin default load" in your game (with admin rights).
+
 ## Mods updated :
-- EnderZoo:Patched, TC4Patched, TCI:Core
+- Chronos Backups, EnderZoo:Patched, TC4Patched, TCI:Core
 
 ## Bugs patched :
 - Thaumonomicon used to rarely darken blocks in recipes
@@ -36,6 +39,7 @@
 - Disabled Imbued Fire
 
 ## Gameplay modifications :
+- Revamped the english text in most quests 
 - Added a recipe for a decorative gravestone
 - Set aspects for Gravestone, Scribing Tools
 
