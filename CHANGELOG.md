@@ -36,6 +36,7 @@ WARNINGS :
 - It is possible to use the soul campfire as a respawn point when it's lit on fire, by sneak + right-clicking it
 - Respawning on the soul campfire will make it estinguish its fire
 - Set new values to vis cost for litting up both campfires
+- Mobs are now able to grief both campfires, lit or unlit 
 - Enderminus now have a 16 blocks aggro range
 - Disabled Imbued Fire
 
